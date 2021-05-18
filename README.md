@@ -40,7 +40,7 @@
 
 ## GitHub Pages
 
-18. Sube el repositorio a GitHub y activa el [hosting](https://iesgrancapitan-eed.github.io/exud4mayo2021-2-lmagarin/) (GitHub Pages). Selecciona la carpeta docs como inicio
+18. Sube el repositorio a [GitHub](https://github.com/iesgrancapitan-eed/exud4mayo2021-2-lmagarin) y activa el [hosting](https://iesgrancapitan-eed.github.io/exud4mayo2021-2-lmagarin/) (GitHub Pages). Selecciona la carpeta docs como inicio
 
 ## BitBucket
 
