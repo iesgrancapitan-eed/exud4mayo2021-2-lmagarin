@@ -40,8 +40,8 @@
 
 ## GitHub Pages
 
-18. Sube el repositorio a GitHub y activa el hosting (GitHub Pages). Selecciona la carpeta docs como inicio
+18. Sube el repositorio a GitHub y activa el [hosting](https://iesgrancapitan-eed.github.io/exud4mayo2021-2-lmagarin/) (GitHub Pages). Selecciona la carpeta docs como inicio
 
 ## BitBucket
 
-19. Crea en tu servidor Bitbucket una copia del repositorio actual. Añade aquí la url. El mismo repositorio ha de estar en ambos servidores 
+19. Crea en tu servidor Bitbucket una copia del repositorio actual. Añade aquí la [url](https://bitbucket.org/lmagarin/exud4mayo2021-2/src/main/). El mismo repositorio ha de estar en ambos servidores 
