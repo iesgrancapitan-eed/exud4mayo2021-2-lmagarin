@@ -1,6 +1,7 @@
 package pgn.exUD4;
 
 public class Gato {
+	private static final String MIAUUUUUUUUUUUUU = "Miauuuuuuuuuuuuu";
 	private int edad;
 	private String nombre;
 
@@ -20,7 +21,7 @@ public class Gato {
 	}
 
 	public String maullar() {
-		return "Miauuuuuuuuuuuuu";
+		return Gato.MIAUUUUUUUUUUUUU;
 	}
 
 	public String getNombre() {
