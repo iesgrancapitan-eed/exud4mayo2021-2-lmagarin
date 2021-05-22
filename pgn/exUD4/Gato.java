@@ -8,12 +8,13 @@ package pgn.exUD4;
  */
 public class Gato extends Mamifero {
 	/**
-	 * La cadena que devuelve un gato cuando maúlla
+	 * La cadena que devuelve un gato cuando maúlla. Representa el maullido de un
+	 * Gato.
 	 */
 	private static final String MIAUUUUUUUUUUUUU = "Miauuuuuuuuuuuuu";
 
 	/**
-	 * Genera un nuevo gato. El estado del gato consta de nombre y edad
+	 * Genera un nuevo gato. El estado del gato consta de nombre y edad.
 	 * 
 	 * @param nombre identificador del nuevo gato
 	 * @param edad   edad del nuevo gato
